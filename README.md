@@ -6,4 +6,4 @@ Bullet screen (bullet-like comments that fly through the screen from right to le
 
 In my research, I compared Bilibili and other Chinese video websites that have bullet screen systems. Analysis is done from the following three perspectives: bullet screen feature, bullet screen content, and as conclusion, how bullet screens empowered Bilibili to become one of the most popular video-sharing websites, and one of the most popular online communities in China.
 
-**Full Paper** available at http://smartchen2005.github.io/paper/bullet-screen-analysis
+**Full Paper** available at http://smartchen2005.github.io/notebook
